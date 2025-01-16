@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: medhat
+theme:
+name: material
+logo: img/crystal-ball-5120x2880-11978.jpg
+nav:
+  - Home: index.md
+  - Gallery: gallery.md
+  - Contact: contact.md
