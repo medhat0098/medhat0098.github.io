@@ -6,3 +6,5 @@ nav:
   - Home: index.md
   - Gallery: gallery.md
   - Contact: contact.md
+extra_css
+  - hide copyright.css
